@@ -1,9 +1,9 @@
 # basic-scaffolder-web
 
 An simple folder structure for web projects
-
+```sh
 project-name
-    |---- src
+    |---- src 
             |---- fonts
             |---- html
                     |---- components
@@ -20,3 +20,4 @@ project-name
             |---- third-party
     files_config.json
     files_config.js
+```
